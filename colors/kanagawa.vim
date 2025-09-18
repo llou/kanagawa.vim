@@ -113,13 +113,12 @@ hi Todo gui=bold term=bold cterm=bold guifg=#223249 guibg=#658594 ctermfg=236 ct
 hi Type gui=NONE term=NONE cterm=NONE guifg=#7aa89f guibg=NONE ctermfg=109 ctermbg=NONE
 hi link Typedef Type
 hi Underlined gui=underline term=underline cterm=underline guifg=#7fb4ca guibg=NONE ctermfg=110 ctermbg=NONE
-hi link VertSplit WinSeparator
 hi Visual gui=NONE term=NONE cterm=NONE guifg=NONE guibg=#223249 ctermfg=NONE ctermbg=236
 hi link VisualNOS Visual
 hi WarningMsg gui=NONE term=NONE cterm=NONE guifg=#ff9e3b guibg=NONE ctermfg=215 ctermbg=NONE
 hi link WildMenu Pmenu
 hi link lCursor Cursor
-hi WinSeparator gui=NONE term=NONE cterm=NONE guifg=#16161d guibg=NONE ctermfg=233 ctermbg=NONE
+hi VertSplit gui=NONE term=NONE cterm=NONE guifg=#16161d guibg=#938aa9 ctermfg=233 ctermbg=NONE
 
 " ============================================================================
 " End of kanagawa (Wave) Colorscheme
