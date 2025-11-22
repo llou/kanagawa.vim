@@ -118,7 +118,7 @@ hi link VisualNOS Visual
 hi WarningMsg gui=NONE term=NONE cterm=NONE guifg=#ff9e3b guibg=NONE ctermfg=215 ctermbg=NONE
 hi link WildMenu Pmenu
 hi link lCursor Cursor
-hi VertSplit gui=NONE term=NONE cterm=NONE guifg=#16161d guibg=#938aa9 ctermfg=233 ctermbg=NONE
+hi VertSplit gui=NONE term=NONE cterm=NONE guifg=#938aa9 guibg=#16161d ctermfg=233 ctermbg=NONE
 
 " ============================================================================
 " End of kanagawa (Wave) Colorscheme
